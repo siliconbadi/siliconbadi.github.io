@@ -1,7 +1,7 @@
 ---
 title: My CKAD certification experience
 date: "2023-10-15T11:25:00.000Z"
-description: "Recently I become CKAD certified and would like to share my experience"
+description: "I recently became CKAD certified and would like to share my experience"
 ---
 
 I recently became CKAD certified and would like to share my motivation to take the exam, preparation and exam experience.
