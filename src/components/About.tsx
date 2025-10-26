@@ -19,14 +19,11 @@ const About = () => {
             <div className="space-y-6">
               <h3 className="font-poppins font-bold text-3xl text-foreground">Our Founder's Journey</h3>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                With over <strong className="text-primary">10 years of experience</strong> in software engineering
-                and architecture, our founder has been recognized with multiple awards for technical excellence and
-                innovation.
+                With over <strong className="text-primary">12 years of experience</strong> in software engineering
+                and architecture, our founder has delivered enterprise-grade solutions across diverse domains. The focus has always been on building scalable, secure, and high-performance systems that meet real business needs.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Having worked with industry leaders like <strong>ING</strong>, and{" "}
-                <strong>KLM</strong>, we bring world-class expertise combined with the warmth and dedication rooted in
-                our Telugu heritage.
+                Having worked with industry leaders like <strong>ASML</strong> we bring deep technical expertise and proven delivery excellence. Every project is approached with a commitment to quality, reliability, and long-term value.
               </p>
               <div className="flex flex-wrap gap-3 pt-4">
                 <span className="px-4 py-2 rounded-full bg-primary/10 text-primary text-sm font-medium">
@@ -98,8 +95,7 @@ const About = () => {
               Recognized for Excellence
             </h3>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              Multiple industry awards for innovation, technical leadership, and exceptional project delivery.
-              We're committed to exceeding expectations on every engagement.
+              Successfully delivered high-quality products that met client needs and earned strong positive feedback. We take pride in our commitment to quality, innovation, and client satisfaction.
             </p>
           </div>
         </div>
