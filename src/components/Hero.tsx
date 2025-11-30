@@ -31,7 +31,7 @@ const Hero = () => {
           </div>
 
           <h1 className="font-poppins font-extrabold text-5xl sm:text-6xl lg:text-7xl leading-tight">
-            <span className="bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent">
+            <span className="text-primary">
               Empowering Innovation
             </span>
             <br />
