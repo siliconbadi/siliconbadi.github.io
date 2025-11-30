@@ -64,14 +64,10 @@ const Hero = () => {
             </Button>
           </div>
 
-          <div className="pt-8 grid grid-cols-3 gap-8 max-w-2xl mx-auto">
+          <div className="pt-8 grid grid-cols-2 gap-8 max-w-2xl mx-auto">
             <div className="text-center">
               <div className="font-poppins font-bold text-4xl text-primary">10+</div>
               <div className="text-sm text-muted-foreground mt-1">Years Experience</div>
-            </div>
-            <div className="text-center">
-              <div className="font-poppins font-bold text-4xl text-accent">50+</div>
-              <div className="text-sm text-muted-foreground mt-1">Projects Delivered</div>
             </div>
             <div className="text-center">
               <div className="font-poppins font-bold text-4xl text-primary">100%</div>
